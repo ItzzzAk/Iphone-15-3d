@@ -1,24 +1,24 @@
-# iPhone 15 Pro Max Showcase 🎉
+# iPhone 15 Pro Max Showcase 🎉📱
 
-![iPhone 15 Pro Max](./path-to-your-image.png)
+![iPhone 15 Pro Max](./public/assets/images/banner.png)
 
-## Project Overview
+## Project Overview 🌟
 
-This project is a 3D interactive showcase of the iPhone 15 Pro Max, built using React, Three.js, and GSAP for animations. The site features an immersive experience, allowing users to explore the new iPhone model from different angles and learn about its features in a dynamic and engaging way.
+Welcome to the **iPhone 15 Pro Max Showcase**! This project is a **3D interactive experience** built using **React**, **Three.js**, and **GSAP** for animations. It offers an immersive way to explore the new iPhone model from various angles and discover its features in a dynamic and engaging manner.
 
-## Description
+## Description 🛠️
 
-This web application provides a detailed and interactive look at the new iPhone 15 Pro Max. The project uses modern web technologies to deliver smooth animations and 3D rendering, making the exploration of the device intuitive and visually appealing. Whether you're a tech enthusiast or just curious about the latest iPhone, this site offers an engaging way to discover its features.
+Get ready to dive into a **detailed and interactive view** of the iPhone 15 Pro Max! This web application leverages modern web technologies to deliver smooth animations and stunning 3D rendering, making it easy and enjoyable to explore the latest iPhone. Whether you're a tech enthusiast or just curious, this site provides a unique way to experience its features.
 
-## Tech Stack
+## Tech Stack 🚀
 
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: Next-generation frontend tooling for fast development.
-- **Three.js**: A powerful 3D library to create and display animated 3D computer graphics.
-- **GSAP**: The GreenSock Animation Platform, used for smooth, high-performance animations.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **Three.js**: A powerful library for creating and displaying animated 3D graphics.
+- **GSAP**: GreenSock Animation Platform for smooth, high-performance animations.
+- **Tailwind CSS**: Utility-first CSS framework for rapidly building custom designs.
 
-## Steps to Run the Project
+## Steps to Run the Project 🖥️
 
 1. **Clone the Repository**:
 
@@ -54,7 +54,7 @@ This web application provides a detailed and interactive look at the new iPhone 
 
 6. **Preview the Production Build**:
 
-    You can preview the production build locally with:
+    Preview the production build locally with:
 
     ```bash
     npm run preview
@@ -62,7 +62,7 @@ This web application provides a detailed and interactive look at the new iPhone 
 
 7. **Deploy to Your Favorite Hosting Service**.
 
-## Key Dependencies
+## Key Dependencies 🔧
 
 - **React**: `npm install react react-dom`
 - **Three.js**: `npm install three`
@@ -71,12 +71,17 @@ This web application provides a detailed and interactive look at the new iPhone 
 
 ## Live Website 🌐
 
-Check out the live version of the site [here](https://aple-15.netlify.app/).
+Check out the live version of the site [here](https://your-live-website-link.com).
 
-## Contributing
+## Contributing 🤝
 
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+We welcome contributions! Please fork the repository and use a feature branch for your changes. Submit a pull request to contribute.
+
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-*Explore the iPhone 15 Pro Max like never before! 🚀*
+*Explore the iPhone 15 Pro Max like never before! 🚀📲*
+
